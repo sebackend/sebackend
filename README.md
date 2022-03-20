@@ -10,7 +10,7 @@ I am a full-stack software engineer and writer. I love programming ❤
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 
-- 🔭 I’m currently working on **Globant**
+- 💼 I’m currently working at **Globant** as a Web UI Developer
 - 🌱 I’m currently learning **Nextjs**
 
 [![Sebastian GitHub stats](https://github-readme-stats.vercel.app/api?username=sebackend)](https://github.com/sebackend/github-readme-stats)
