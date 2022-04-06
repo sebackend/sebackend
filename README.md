@@ -5,7 +5,7 @@
 #### Glad to see you here
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsebackend&label=Visitors&countColor=%23f0b354)
 
-I am a full-stack software engineer and writer. I love programming ❤
+I am a full-stack software developer.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
