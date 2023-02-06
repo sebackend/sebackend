@@ -1,6 +1,6 @@
 ## Hi
-### My name is Sebastian Meza
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-meza-688520178)
+### My name is Sebastian Estrada
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebaestrada/)
 
 #### Glad to see you here
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsebackend&label=Visitors&countColor=%23f0b354)
