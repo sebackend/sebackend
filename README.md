@@ -13,7 +13,3 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 💼 I’m currently working at **Globant** as a Web UI Developer
 - 🌱 I’m currently learning **Nextjs**
 
-[![Sebastian GitHub stats](https://github-readme-stats.vercel.app/api?username=sebackend)](https://github.com/sebackend/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebackend&layout=compact)](https://github.com/sebackend/github-readme-stats)
